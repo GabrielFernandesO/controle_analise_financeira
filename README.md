@@ -7,9 +7,9 @@ padrões de consumo.
 
 ------------------------------------------------------------------------
 
-## 🎥 Project Demonstration
+## 🎥 Demonstração do Projeto
 
-📌 **Video explanation and walkthrough:**\
+📌 **Video explicação and walkthrough:**\
 👉 *\[Coloque aqui o link do vídeo demonstrando o projeto\]*
 
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Este projeto realiza automaticamente:
 
 ------------------------------------------------------------------------
 
-## 🏗 Project Architecture
+## 🏗 Arquitetura do Projeto
 
     Controle_Financeiro/
     │
@@ -92,7 +92,7 @@ Modelagem da tendência temporal dos gastos.
 
 ------------------------------------------------------------------------
 
-## 🛠 Technologies Used
+## 🛠 Tecnologias usadas
 
 -   Python
 -   Pandas
@@ -103,7 +103,7 @@ Modelagem da tendência temporal dos gastos.
 
 ------------------------------------------------------------------------
 
-## ▶️ How to Run
+## ▶️ Como executar
 
 1.  Coloque a fatura PDF na pasta:
 
@@ -127,7 +127,7 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 🎯 Skills Demonstrated
+## 🎯 Skills
 
 -   Data Extraction (ETL)
 -   Data Cleaning & Transformation
@@ -140,7 +140,7 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Author
+## 👨‍💻 Autor
 
 Projeto desenvolvido para portfólio em Data Science.
 
