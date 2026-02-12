@@ -9,7 +9,7 @@ padrões de consumo.
 
 ## 🎥 Demonstração do Projeto
 
-📌 **Video explicação and walkthrough:**\
+📌 **Video explicação:**\
 👉 *https://youtu.be/HXvU0Sb0VPw*
 
 ------------------------------------------------------------------------
